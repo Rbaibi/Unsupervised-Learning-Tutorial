@@ -4,3 +4,4 @@
 "# ConvNet-with-Keras-CIFAR10" 
 "# ConvNet-with-TFLearn-Dogs-vs-Cats-Dataset" 
 "# ConvNet-with-TFLearn-Kaggle-Plant-Seedlings-Dataset" 
+"# 3000-Stock-Predictor-V1" 
