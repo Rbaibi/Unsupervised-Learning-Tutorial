@@ -1,9 +1,7 @@
-"# NN-with-Tensorflow-MNIST-Dataset" 
-"# ConvNet-with-Keras-CIFAR10" 
-"# ConvNet-with-TFLearn-Kaggle-Plant-Seedlings-Dataset" 
-"# ConvNet-with-Keras-CIFAR10" 
-"# ConvNet-with-TFLearn-Dogs-vs-Cats-Dataset" 
-"# ConvNet-with-TFLearn-Kaggle-Plant-Seedlings-Dataset" 
-"# 3000-Stock-Predictor-V1" 
-"# 3000plus-Stock-Predictor-V1.0" 
-"# Unsupervised-Learning-Tutorial" 
+#Unsupervised learning tutorial
+
+Unsupervised learning is different from supervised learning because you're dealing with unlabeled data.
+The goal is to find patterns in the data without a specific prediction task in mind.
+
+In this tutorial you will learn how to find clusters
+and how to perform dimension reduction
